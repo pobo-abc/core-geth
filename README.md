@@ -171,7 +171,7 @@ Step 4. Pool and payments
 
 Currently we have official pool - pool.webchain.network:3333
 
-So we start mining and then open https://pool.webchain.network/ in search string below "Your Stats & Payment History" we put our wallet number: `0x918e173c8426593bd37d5bc7d03f17dcc154cd5b`
+So we start mining and then open https://www.mintme.com/pool/ in search string below "Your Stats & Payment History" we put our wallet number: `0x918e173c8426593bd37d5bc7d03f17dcc154cd5b`
 
 and after miner send his first accepted share we will see realtime stats on top of page
 
